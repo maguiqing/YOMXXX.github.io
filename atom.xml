@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>辰总的blog</title>
+  
+  <subtitle>个人博客，技术文章，生活随笔，记录优秀的文章</subtitle>
+  <link href="https://yomxxx.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://yomxxx.github.io/"/>
+  <updated>2020-09-02T02:44:07.525Z</updated>
+  <id>https://yomxxx.github.io/</id>
+  
+  <author>
+    <name>lgc</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>飞书机器人--前端文章推送</title>
+    <link href="https://yomxxx.github.io/2020/09/02/20200902-feishu-robot/"/>
+    <id>https://yomxxx.github.io/2020/09/02/20200902-feishu-robot/</id>
+    <published>2020-09-02T02:05:48.488Z</published>
+    <updated>2020-09-02T02:44:07.525Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="node" scheme="https://yomxxx.github.io/categories/node/"/>
+    
+    
+    <category term="爬虫" scheme="https://yomxxx.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="serverless（云函数）" scheme="https://yomxxx.github.io/tags/serverless%EF%BC%88%E4%BA%91%E5%87%BD%E6%95%B0%EF%BC%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue Composition API 陷阱</title>
+    <link href="https://yomxxx.github.io/2020/09/01/20200901-Composition-API/"/>
+    <id>https://yomxxx.github.io/2020/09/01/20200901-Composition-API/</id>
+    <published>2020-09-01T06:25:10.359Z</published>
+    <updated>2020-09-02T02:03:47.614Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://yomxxx.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="vue3" scheme="https://yomxxx.github.io/tags/vue3/"/>
+    
+    <category term="Compsition API" scheme="https://yomxxx.github.io/tags/Compsition-API/"/>
+    
+  </entry>
+  
+</feed>
